@@ -1,8 +1,10 @@
 # learningSpark
 开发环境：
-   
+
    系统：Win10
-    
+
+spark-szd    
+
     开发工具：IntelliJ IDEA 2017.1.6 x64
     
     项目管理工具：Apache Maven 3.5.0
@@ -14,7 +16,7 @@
     Spark 2.1.0
     
     HBase 1.1.5
-    
+
 Spark单机环境安装(cdh) https://blog.csdn.net/qq_35885488/article/details/103162749
 
 spark在Idea中设置日志打印级别https://blog.csdn.net/qq_35885488/article/details/103201704
